@@ -1,2 +1,2 @@
 # Circular-Doubly-Linked-List
- Circular Doubly Linked List Implementation and Manipulation
+ Circular Doubly Linked List Implementation and Manipulation.
